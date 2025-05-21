@@ -1,3 +1,3 @@
-module github.com/kameikojirou/gohelloworld
+module gohelloworld
 
 go 1.24.3
